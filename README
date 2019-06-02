@@ -1,0 +1,8 @@
+these are simple C programs
+intended for piping to an
+audio device, such as to
+/dev/audio
+
+viznut.c comes from:
+https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html
+
